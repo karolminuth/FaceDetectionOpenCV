@@ -1,0 +1,2 @@
+Program wczytuje zdjêcia, wykrywa twarz oraz za pomoc¹ ró¿nych filtrów lub sposobów, stara siê poprawiæ jakoœæ zdjêcia.
+By³o to jedno z zadañ w ramach projektu(klasteryzacja emocji)-seminarium na studiach.
